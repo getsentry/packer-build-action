@@ -1,4 +1,4 @@
-FROM hashicorp/packer:1.5.4
+FROM hashicorp/packer:1.9.1
 
 LABEL "com.github.actions.name" = "Packer build"
 LABEL "com.github.actions.description" = "Run packer build on a template file"
